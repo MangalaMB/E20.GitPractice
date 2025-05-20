@@ -3,4 +3,7 @@
   <groupId>org.testing</groupId>
   <artifactId>E20selenium-practice</artifactId>
   <version>0.0.1-SNAPSHOT</version>
+  <dependencies>
+  
+  </dependencies>
 </project>
